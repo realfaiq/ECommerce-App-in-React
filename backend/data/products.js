@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: "1",
     name: "Iphone 14",
     image: "/images/Iphone14.jpg",
     description:
@@ -14,7 +13,6 @@ const products = [
   },
 
   {
-    _id: "2",
     name: "Samsung S9+",
     image: "/images/S9+.jpg",
     description:
@@ -28,7 +26,6 @@ const products = [
   },
 
   {
-    _id: "3",
     name: "HTC Quad 2",
     image: "/images/htc.jpg",
     description:
@@ -42,7 +39,6 @@ const products = [
   },
 
   {
-    _id: "4",
     name: "Oppo Reno 22",
     image: "/images/Reno22.jpg",
     description:
@@ -56,7 +52,6 @@ const products = [
   },
 
   {
-    _id: "5",
     name: "Infinix Note 12 5G",
     image: "/images/InfinixNote12.jpg",
     description:
@@ -70,7 +65,6 @@ const products = [
   },
 
   {
-    _id: "6",
     name: "Xiaomi Mi 11",
     image: "/images/Mi11.jpg",
     description:
